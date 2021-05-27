@@ -1,0 +1,151 @@
+//@font-face {
+//  font-family: "Oswald";
+//  src: url("public/fonts/Oswald/Oswald-Bold.ttf") format("ttf")
+//}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  background-color: #FFF;
+  margin: 0px;
+  padding: 0px;
+  font-size: 14px;
+  line-height: 16px;
+  background-image: url('../assets/body-bg-1.png');
+  background-repeat: no-repeat;
+  background-position: left top;
+  overflow-x: hidden;
+}
+.leafs-right {
+  background-image: url('../assets/leafs-right.png');
+  background-repeat: no-repeat;
+  background-position: left top;
+  display: block;
+  height: 512px;
+  width: 203px;
+  position: absolute;
+  top: 430px;
+  right: 0px;
+}
+.bg2 {
+  background-image: url('../assets/body-bg-2.png');
+  background-repeat: no-repeat;
+  background-position: right 750px;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+}
+.main_container {
+  display: block;
+  margin: auto;
+  width: 96%;
+  position: relative;
+  max-width: 1380px;
+}
+.red {
+  color: #e40000;
+}
+.blue {
+  color: #506c9e;
+}
+.green {
+  color: #409e00;
+}
+.number-progress {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.m10 {
+  margin: 10px 13px;
+}
+h1 {
+  font-family: fantasy;
+  font-size: 37px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: #000;
+  display: block;
+  padding: 0px;
+  width: 100%;
+  margin: 0 0 20px 0;
+  font-weight: 500;
+}
+h2 {
+  font-family: fantasy;
+  letter-spacing: 2px;
+  font-size: 32px;
+  line-height: 34px;
+  text-transform: uppercase;
+  color: #000;
+  text-decoration: none;
+  display: block;
+  padding: 0px;
+  margin-bottom: 30px;
+  font-weight: 500;
+  margin-top: 2%;
+}
+h6 {
+  font-family: fantasy;
+  font-size: 21px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #000;
+  display: block;
+  padding: 0px;
+  width: 100%;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  font-weight: 500;
+}
+.svalki_button {
+  font-family: 'Oswald', sans-serif;
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 500;
+  display: block;
+  float: left;
+  margin-right: 8px;
+  margin-bottom: 4px;
+  padding: 12px;
+  border-radius: 6px;
+  text-transform: uppercase;
+  color: #FFF;
+  text-decoration: none;
+  opacity: 0.8;
+  cursor: pointer;
+  transition: all .4s;
+  &:hover {
+    opacity: 1;
+  }
+}
+.green_button {
+  background-color: #409E00;
+}
+.red_button {
+  background-color: #FF1919;
+}
+.blue_button {
+  background-color: #506C9E;
+}
+@media (max-width: 700px) {
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 22px;
+  }
+}
+@media (max-width: 450px) {
+  h1 {
+    line-height: 26px;
+    font-size: 18px;
+  }
+  h2 {
+    font-size: 16px;
+    line-height: 5px;
+  }
+}

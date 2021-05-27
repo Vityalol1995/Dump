@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="141.73px"
+	 height="141.73px" viewBox="0 0 141.73 141.73" enable-background="new 0 0 141.73 141.73" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="141.732" width="141.732" x="0" y="-141.732" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<rect fill="#5181B8" width="141.732" height="141.732"/>
+<path id="Logo" fill="#FFFFFF" d="M116.079,48.828c0.658-2.19,0-3.798-3.118-3.798h-10.346c-2.628,0-3.84,1.39-4.497,2.923
+	c0,0-5.255,12.81-12.701,21.131c-2.409,2.409-3.504,3.175-4.819,3.175c-0.656,0-1.607-0.765-1.607-2.955V48.828
+	c0-2.628-0.763-3.798-2.952-3.798H59.811c-1.641,0-2.629,1.219-2.629,2.375c0,2.49,3.722,3.066,4.11,10.073v15.219
+	c0,3.336-0.602,3.942-1.916,3.942c-3.504,0-12.026-12.868-17.08-27.591c-0.992-2.863-1.984-4.018-4.626-4.018H27.325
+	c-2.954,0-3.543,1.39-3.543,2.923c0,2.737,3.504,16.313,16.313,34.269c8.539,12.263,20.567,18.91,31.521,18.91
+	c6.569,0,7.381-1.477,7.381-4.02v-9.268c0-2.952,0.622-3.543,2.703-3.543c1.532,0,4.16,0.767,10.291,6.678
+	c7.007,7.007,8.162,10.151,12.104,10.151h10.335c2.952,0,4.429-1.477,3.577-4.394c-0.933-2.904-4.277-7.118-8.717-12.111
+	c-2.409-2.847-6.022-5.913-7.118-7.445c-1.532-1.971-1.094-2.847,0-4.599C102.173,72.587,114.765,54.85,116.079,48.828z"/>
+</svg>
